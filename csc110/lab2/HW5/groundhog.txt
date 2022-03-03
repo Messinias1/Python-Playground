@@ -1,0 +1,128 @@
+                   February    March
+       PunxsutawneyAverage     Average
+Year   Phil        TemperatureTemperatureDifference
+   1895No Record           26.6      39.97    13.37
+   1896No Record         35.04       38.03      2.99
+   1897No Record         33.39       38.79       5.4
+   1898Full Shadow       35.37       41.05      5.68
+   1899No Record           25.5      37.63    12.13
+   1900Full Shadow       30.76       41.27    10.51
+   1901Full Shadow       29.86       40.71    10.85
+   1902No Record         31.46       41.58    10.12
+   1903Full Shadow       28.42       42.21    13.79
+   1904Full Shadow       31.59       41.76    10.17
+   1905Full Shadow       26.94       45.12    18.18
+   1906Full Shadow       33.69         36.1     2.41
+   1907Full Shadow       35.46         45.7   10.24
+   1908Full Shadow       33.01       43.92    10.91
+   1909Full Shadow       35.02       40.35      5.33
+   1910Full Shadow         29.3      49.44    20.14
+   1911Full Shadow       33.66       44.02    10.36
+   1912Full Shadow       31.08       35.76      4.68
+   1913Full Shadow         29.5      38.71      9.21
+   1914Full Shadow       29.52       40.75    11.23
+   1915Full Shadow       35.94       36.95      1.01
+   1916Full Shadow       33.03       42.15      9.12
+   1917Full Shadow       30.09       38.35      8.26
+   1918Full Shadow       33.82       45.75    11.93
+   1919Full Shadow       32.25       40.89      8.64
+   1920Full Shadow       33.69       40.28      6.59
+   1921Full Shadow         36.9      46.63      9.73
+   1922Full Shadow       31.95       40.42      8.47
+   1923Full Shadow       29.57         38.3     8.73
+   1924Full Shadow       35.19       37.18      1.99
+   1925Full Shadow         38.3      44.24      5.94
+   1926Full Shadow       37.67       39.65      1.98
+   1927Full Shadow         37.9      42.26      4.36
+   1928Full Shadow       34.34       43.12      8.78
+   1929Full Shadow       26.92       43.56    16.64
+   1930Full Shadow         40.1      40.41      0.31
+   1931Full Shadow       37.94       39.42      1.48
+   1932Full Shadow         36.7      37.36      0.66
+   1933Full Shadow       29.59       41.83    12.24
+   1934No Shadow         34.32       42.78      8.46
+   1935Full Shadow       36.01       43.61       7.6
+   1936Full Shadow       25.23       43.43      18.2
+   1937Full Shadow       31.73       38.84      7.11
+   1938Full Shadow          36       45.01      9.01
+   1939Full Shadow       29.98       42.51    12.53
+   1940Full Shadow       33.85       41.52      7.67
+   1941Full Shadow       33.53         39.2     5.67
+       Partial
+   1942Shadow            30.74       41.31    10.57
+   1943No Record         36.28         38.5     2.22
+   1944Full Shadow         34.5        38.5        4
+   1945Full Shadow       35.28       45.54    10.26
+   1946Full Shadow       34.88       46.78      11.9
+   1947Full Shadow       31.41       38.75      7.34
+   1948Full Shadow       31.62       38.71      7.09
+   1949Full Shadow       31.91       40.77      8.86
+   1950No Shadow         35.55       38.84      3.29
+   1951Full Shadow       34.54       38.55      4.01
+   1952Full Shadow       35.46       37.69      2.23
+   1953Full Shadow       35.87       43.75      7.88
+   1954Full Shadow       41.41       39.25     -2.16
+   1955Full Shadow       31.05       40.06      9.01
+   1956Full Shadow       32.27       40.75      8.48
+   1957Full Shadow       38.07       41.27       3.2
+   1958Full Shadow       31.98       37.67      5.69
+   1959Full Shadow       32.49       41.45      8.96
+   1960Full Shadow       30.52       35.91      5.39
+1961Full Shadow   37.42   43.47    6.05
+
+1962Full Shadow   34.92    37.9    2.98
+1963Full Shadow   34.12   43.72     9.6
+1964Full Shadow   31.77   38.82    7.05
+1965Full Shadow   32.52   35.44    2.92
+1966Full Shadow   31.24      43   11.76
+1967Full Shadow   32.88   43.63   10.75
+1968Full Shadow   32.92   43.56   10.64
+1969Full Shadow   32.81   36.03    3.22
+1970No Shadow     35.35    38.5    3.15
+1971Full Shadow   33.48   39.65    6.17
+1972Full Shadow   33.55   44.04   10.49
+1973Full Shadow   33.58   44.29   10.71
+1974Full Shadow   34.74   44.38    9.64
+1975No Shadow     32.76    38.7    5.94
+1976Full Shadow   39.56   42.31    2.75
+1977Full Shadow   36.03   43.18    7.15
+1978Full Shadow   27.99   41.31   13.32
+1979Full Shadow   28.13   42.06   13.93
+1980Full Shadow   32.85   39.36    6.51
+1981Full Shadow   36.59   42.85    6.26
+1982Full Shadow   32.59   42.03    9.44
+1983No Shadow     36.86    42.4    5.54
+1984Full Shadow   37.38   40.08     2.7
+1985Full Shadow   30.87   43.48   12.61
+1986No Shadow     35.85   46.18   10.33
+1987Full Shadow   37.38   42.57    5.19
+1988No Shadow     33.69    42.4    8.71
+1989Full Shadow   29.17   42.67    13.5
+1990No Shadow      36.7   44.74    8.04
+1991Full Shadow   39.81   43.32    3.51
+1992Full Shadow    39.7   44.71    5.01
+1993Full Shadow   31.14   41.79   10.65
+1994Full Shadow   31.87   44.51   12.64
+1995No Shadow     37.36   43.34    5.98
+1996Full Shadow   35.69   39.02    3.33
+1997No Shadow     36.05   44.67    8.62
+1998Full Shadow   38.71   41.34    2.63
+1999No Shadow     39.49    42.8    3.31
+2000Full Shadow   39.78   46.04    6.26
+2001Full Shadow   33.98   41.49    7.51
+2002Full Shadow   36.39   39.54    3.15
+2003Full Shadow   32.79    43.3   10.51
+2004Full Shadow   33.57   47.41   13.84
+2005Full Shadow   37.94   42.31    4.37
+2006Full Shadow   34.83   42.62    7.79
+2007No Shadow     32.41   47.66   15.25
+2008Full Shadow    34.7   41.86    7.16
+2009Full Shadow   36.77   42.87     6.1
+2010Full Shadow    31.8   43.57   11.77
+2011No Shadow     33.04   43.07   10.03
+2012Full Shadow   37.51   50.41    12.9
+2013No Shadow     34.77   40.91    6.14
+2014Full Shadow   32.13   40.51    8.38
+2015Full Shadow   32.99   45.39    12.4
+2016No Shadow     39.47    47.5    8.03
+
